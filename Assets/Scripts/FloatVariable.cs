@@ -16,4 +16,5 @@ public class FloatVariable : ScriptableObject {
 			OnValueChanged?.Invoke(_value);
 		}
 	}
+	
 }

@@ -22,7 +22,4 @@ public class LinePositioner : MonoBehaviour {
 		_line.End = new Vector3(worldPoint.x, worldPoint.y, 0);
     }
 
-	private void OnGUI() {
-		GUI.Label(new Rect(10, 10, 250, 20), "Mouse Position: " + Input.mousePosition.ToString());
-	}
 }

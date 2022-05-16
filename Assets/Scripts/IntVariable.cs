@@ -16,4 +16,9 @@ public class IntVariable : ScriptableObject {
 			OnValueChanged?.Invoke(_value);
 		}
 	}
+
+	public void AddValue(int value) {
+		Value += value;
+	}
+	
 }
