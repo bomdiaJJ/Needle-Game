@@ -6,5 +6,5 @@
 
 ##### Has dependencies on [Shapes](https://assetstore.unity.com/packages/tools/particles-effects/shapes-173167) by [Freya Holmér](https://twitter.com/FreyaHolmer) and [Odin Inspecton and Serializer](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041) by [Sirenix](https://odininspector.com/)
 
-###Devlog
+### Devlog
 - **Day 1, ~13h00 -** Started working on the project
